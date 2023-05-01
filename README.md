@@ -34,5 +34,7 @@
 
 ## 📝 Licença
 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AlanFaraj83/Projeto-Relogio-Digital/blob/main/LICENSE) para mais detalhes.
+
 
 
